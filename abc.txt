@@ -1,0 +1,18 @@
+hi this is text file
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:wq!
+
